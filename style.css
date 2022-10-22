@@ -1,0 +1,36 @@
+
+body{
+    background-size: cover ;
+    background-position: center ;
+}
+
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+.song_name{
+    font-size: 21px;
+}
+
+canvas{
+    border-color:  white;
+    border-style: solid;
+    box-shadow: 5px 5px 38px white;
+}
+
+.speed{
+    float: left;
+    font-size: 21px;
+}
+
+.volume{
+    float: right;
+    font-size: 21px;
+}
